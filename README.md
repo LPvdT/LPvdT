@@ -3,18 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPvdT&layout=compact&theme=tokyonight&hide=html,css,scss" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPvdT&layout=compact&theme=tokyonight&hide=html,css,scss" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=LPvdT&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=LPvdT&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LPvdT&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LPvdT&theme=tokyo-night" />
+</p>
 
 <br />
 
