@@ -21,5 +21,5 @@
 <br />
 
 - 🔭 I’m currently working on: Multiple projects.
-- 🌱 I’m currently learning: `TypeScript` & `Rust`
+- 🌱 I’m currently learning: `Golang`
 - ⚡ Fun fact: I love cats.
