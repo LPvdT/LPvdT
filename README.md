@@ -1,3 +1,5 @@
+<!-- markdownlint-disable -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=26&duration=2500&pause=1000&color=47FF88&background=23056400&center=true&multiline=true&random=false&width=450&height=100&lines=Hey.;Welcome+to+my+GitHub+page." />
 </p>
@@ -16,6 +18,9 @@
 
 <br />
 
-- 🔭 I’m currently working on: Multiple projects.
-- 🌱 I’m currently learning: `Golang`
-- ⚡ Fun fact: I love cats.
+- 🔭 I’m currently working on:
+  - Multiple projects.
+- 🌱 I’m currently learning:
+  - `GoLang`
+- ⚡ Fun fact:
+  - I love cats 😸.
