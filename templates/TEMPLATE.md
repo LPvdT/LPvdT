@@ -1,0 +1,37 @@
+<!-- markdownlint-disable -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=26&duration=2500&pause=1000&color=47FF88&background=23056400&center=true&multiline=true&random=false&width=450&height=100&lines=Hey.;Welcome+to+my+GitHub+page." />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPvdT&layout=compact&theme=tokyonight&hide=html,css,scss" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LPvdT&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LPvdT&theme=tokyo-night" />
+</p>
+
+<br />
+
+### About me
+
+- 🔭 **I’m currently working on:**
+  - Multiple projects (which I usually end up never finishing).
+- 🌱 **I’m currently learning:**
+  - `GoLang`
+- ⚡ **Fun facts:**
+  - I love cats 😸.
+  - I have been on GitHub for **{{ ACCOUNT_AGE }}** years, but I have only contributed for a fraction of that time.
+  - I have made a total of **{{ COMMITS }}** commits.
+  - I have made a total of **{{ PULL_REQUESTS }}** PRs.
+
+### Language breakdown
+
+{{ LANGUAGE_TEMPLATE_START }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
