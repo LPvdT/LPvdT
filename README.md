@@ -41,12 +41,14 @@
 - ⚡ **Fun facts:**
   - I love cats 😸.
   - I have been on GitHub for **7** years, but I have only contributed for a fraction of that time.
-  - I have made a total of **1461** commits.
+  - I have made a total of **1462** commits.
   - I have made a total of **126** PRs.
 
 ## Language breakdown
 
 This shows a breakdown of the languages represented in my repositories. Not that this includes rendered/generated files. A more realistic representation can be seen further above.
+
+<br />
 
 ![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=HTML&color=555&labelColor=%23e34c26&message=88%25)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&label=Python&color=555&labelColor=%233572A5&message=5.2%25)
