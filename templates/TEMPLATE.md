@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=26&duration=2500&pause=1000&color=47FF88&background=23056400&center=true&multiline=true&random=false&width=450&height=100&lines=Hey.;Welcome+to+my+GitHub+page." />
 </p>
 
+<br />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPvdT&layout=compact&theme=tokyonight&hide=html,css,scss" />
 </p>
@@ -18,7 +20,19 @@
 
 <br />
 
-### About me
+## About me
+
+<br />
+
+<div align="center">
+  </a>
+    <a href="https://linkedin.com/in/lpvdt" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=My%20LinkedIn alt=linkedin />
+  </a>
+</div>
+
+<br />
+<br />
 
 - 🔭 **I’m currently working on:**
   - Multiple projects (which I usually end up never finishing).
@@ -30,8 +44,10 @@
   - I have made a total of **{{ COMMITS }}** commits.
   - I have made a total of **{{ PULL_REQUESTS }}** PRs.
 
-### Language breakdown
+## Language breakdown
+
+This shows a breakdown of the languages represented in my repositories. Not that this includes rendered/generated files. A more realistic representation can be seen further above.
 
 {{ LANGUAGE_TEMPLATE_START }}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge&label={{LANGUAGE_NAME:uri}}&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
