@@ -1,5 +1,7 @@
 <!-- markdownlint-disable -->
 
+<br />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=26&duration=2500&pause=1000&color=47FF88&background=23056400&center=true&multiline=true&random=false&width=450&height=100&lines=Hey.;Welcome+to+my+GitHub+page." />
 </p>
@@ -22,16 +24,13 @@
 
 ## About me
 
-<br />
-
 <div align="center">
   </a>
     <a href="https://linkedin.com/in/lpvdt" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=My%20LinkedIn alt=linkedin />
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=Laurens%20van%20der%20Tas alt=linkedin />
   </a>
 </div>
 
-<br />
 <br />
 
 - 🔭 **I’m currently working on:**
@@ -41,12 +40,14 @@
 - ⚡ **Fun facts:**
   - I love cats 😸.
   - I have been on GitHub for **7** years, but I have only contributed for a fraction of that time.
-  - I have made a total of **1463** commits.
+  - I have made a total of **1464** commits.
   - I have made a total of **126** PRs.
+
+<br />
 
 ## Language breakdown
 
-This shows a breakdown of the languages represented in my repositories. Not that this includes rendered/generated files. A more realistic representation can be seen further above.
+This shows a breakdown of the languages represented in my repositories. Note that this _includes rendered/generated_ files. A more realistic representation can be seen further above.
 
 <br />
 
