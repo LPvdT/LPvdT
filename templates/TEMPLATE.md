@@ -24,6 +24,8 @@
 
 ## About me
 
+<br />
+
 <div align="center">
   </a>
     <a href="https://linkedin.com/in/lpvdt" target="_blank">
@@ -54,3 +56,5 @@ This shows a breakdown of the languages represented in my repositories. Note tha
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge&label={{LANGUAGE_NAME:uri}}&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
+
+<br />
