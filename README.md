@@ -24,6 +24,8 @@
 
 ## About me
 
+<br />
+
 <div align="center">
   </a>
     <a href="https://linkedin.com/in/lpvdt" target="_blank">
@@ -40,7 +42,7 @@
 - ⚡ **Fun facts:**
   - I love cats 😸.
   - I have been on GitHub for **7** years, but I have only contributed for a fraction of that time.
-  - I have made a total of **1464** commits.
+  - I have made a total of **1465** commits.
   - I have made a total of **126** PRs.
 
 <br />
@@ -59,3 +61,5 @@ This shows a breakdown of the languages represented in my repositories. Note tha
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&label=JavaScript&color=555&labelColor=%23f1e05a&message=0.5%25)
 ![R](https://img.shields.io/static/v1?style=for-the-badge&label=R&color=555&labelColor=%23198CE7&message=0.5%25)
 ![Other](https://img.shields.io/static/v1?style=for-the-badge&label=Other&color=555&labelColor=%23ededed&message=1.3%25)
+
+<br />
