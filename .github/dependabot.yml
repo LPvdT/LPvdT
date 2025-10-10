@@ -1,0 +1,16 @@
+version: 2
+
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: cron
+      cronjob: 30 6 * * 6/3
+      timezone: Europe/Amsterdam
+    target-branch: main
+    pull-request-branch-name:
+      separator: /
+    commit-message:
+      include: scope
+      prefix: '[github-actions]'
+    open-pull-requests-limit: 5
