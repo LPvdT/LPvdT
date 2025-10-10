@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: 0 3 * * 6
+    - cron: 30 6 * * 6/3
   push:
     branches: [main, master]
   workflow_dispatch:
