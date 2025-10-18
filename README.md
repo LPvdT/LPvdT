@@ -42,8 +42,8 @@
 - ⚡ **Fun facts:**
   - I love cats 😸.
   - I have been on GitHub for **7** years, but I have only contributed for a fraction of that time.
-  - I have made a total of **1795** commits.
-  - I have made a total of **161** PRs.
+  - I have made a total of **1824** commits.
+  - I have made a total of **164** PRs.
 
 <br />
 
@@ -53,8 +53,8 @@ This shows a breakdown of the languages represented in my repositories. Note tha
 
 <br />
 
-![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=HTML&color=555&labelColor=%23e34c26&message=86.6%25)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&label=Python&color=555&labelColor=%233572A5&message=5.6%25)
+![HTML](https://img.shields.io/static/v1?style=for-the-badge&label=HTML&color=555&labelColor=%23e34c26&message=86.3%25)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&label=Python&color=555&labelColor=%233572A5&message=5.8%25)
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&label=Jupyter%20Notebook&color=555&labelColor=%23DA5B0B&message=2.8%25)
 ![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&label=TypeScript&color=555&labelColor=%233178c6&message=0.8%25)
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&label=Go&color=555&labelColor=%2300ADD8&message=0.7%25)
