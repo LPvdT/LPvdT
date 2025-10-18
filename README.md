@@ -1,30 +1,30 @@
 <!-- markdownlint-disable -->
 
-<br />
+# I am Laurens
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=26&duration=2500&pause=1000&color=47FF88&background=23056400&center=true&multiline=true&random=false&width=450&height=100&lines=Hey.;Welcome+to+my+GitHub+page." />
 </p>
 
-<br />
+## Top Languages 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPvdT&layout=compact&theme=tokyonight&hide=html,css,scss" />
 </p>
 
+## Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LPvdT&show_icons=true&theme=tokyonight" />
 </p>
+
+## Commit Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LPvdT&theme=tokyo-night" />
 </p>
 
-<br />
-
 ## About me
-
-<br />
 
 <div align="center">
   </a>
@@ -41,15 +41,15 @@
   - `GoLang`
 - ⚡ **Fun facts:**
   - I love cats 😸.
-  - I have been on GitHub for **7** years, but I have only contributed for a fraction of that time.
-  - I have made a total of **1824** commits.
-  - I have made a total of **164** PRs.
-
-<br />
+  - I have been on GitHub for `**7**` years, but I have only contributed for a fraction of that time.
+  - I have made a total of `**1826**` commits.
+  - I have made a total of `**165**` PRs.
 
 ## Language breakdown
 
-This shows a breakdown of the languages represented in my repositories. Note that this _includes rendered/generated_ files. A more realistic representation can be seen further above.
+This shows a breakdown of the languages represented in my repositories.
+
+> Note that this _includes rendered/generated_ files. A more realistic representation can be seen [further above](#top-languages).
 
 <br />
 
