@@ -41,9 +41,9 @@
   - `GoLang`
 - ⚡ **Fun facts:**
   - I love cats 😸.
-  - I have been on GitHub for `**{{ ACCOUNT_AGE }}**` years, but I have only contributed for a fraction of that time.
-  - I have made a total of `**{{ COMMITS }}**` commits.
-  - I have made a total of `**{{ PULL_REQUESTS }}**` PRs.
+  - I have been on GitHub for **`{{ ACCOUNT_AGE }}`** years, but I have only contributed for a fraction of that time.
+  - I have made a total of **`{{ COMMITS }}`** commits.
+  - I have made a total of **`{{ PULL_REQUESTS }}`** PRs.
 
 ## Language breakdown
 
