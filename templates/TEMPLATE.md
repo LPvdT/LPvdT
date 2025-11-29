@@ -1,21 +1,9 @@
 <!-- markdownlint-disable -->
 
-# I am Laurens
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=26&duration=2500&pause=1000&color=47FF88&background=23056400&center=true&multiline=true&random=false&width=450&height=100&lines=Hey.;Welcome+to+my+GitHub+page." />
-</p>
-
 ## Top Languages 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPvdT&layout=compact&theme=tokyonight&hide=html,css,scss" />
-</p>
-
-## Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LPvdT&show_icons=true&theme=tokyonight" />
 </p>
 
 ## Commit Graph
