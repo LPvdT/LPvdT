@@ -1,27 +1,6 @@
 <!-- markdownlint-disable -->
 
-## Top Languages 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPvdT&layout=compact&theme=tokyonight&hide=html,css,scss" />
-</p>
-
-## Commit Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LPvdT&theme=tokyo-night" />
-</p>
-
-## About me
-
-<div align="center">
-  </a>
-    <a href="https://linkedin.com/in/lpvdt" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&label=Laurens%20van%20der%20Tas alt=linkedin />
-  </a>
-</div>
-
-<br />
+# Welcome!
 
 - 🔭 **I’m currently working on:**
   - Multiple projects (which I usually end up never finishing).
@@ -37,7 +16,7 @@
 
 This shows a breakdown of the languages represented in my repositories.
 
-> Note that this _includes rendered/generated_ files. A more realistic representation can be seen [further above](#top-languages).
+> Note that this _includes rendered/generated_ files.
 
 <br />
 
