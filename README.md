@@ -11,8 +11,8 @@
 - ⚡ **Fun facts:**
   - I love cats 😸.
   - I have been on GitHub for **`8`** years, but I have only contributed for a fraction of that time.
-  - I have made a total of **`1860`** commits.
-  - I have made a total of **`173`** PRs.
+  - I have made a total of **`1862`** commits.
+  - I have made a total of **`174`** PRs.
 
 <br>
 
@@ -38,8 +38,7 @@
   <br>
   <br>
   <br>
-
-  <img src="https://github-profile-trophy.vercel.app?username=LPvdT&theme=tokyonight&column=5&row=4&margin-w=30&margin-h=30&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=LPvdT&theme=tokyonight&column=5&row=4&margin-w=30&margin-h=30&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
 
 <br>
