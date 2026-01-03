@@ -11,8 +11,8 @@
 - ⚡ **Fun facts:**
   - I love cats 😸.
   - I have been on GitHub for **`8`** years, but I have only contributed for a fraction of that time.
-  - I have made a total of **`1862`** commits.
-  - I have made a total of **`174`** PRs.
+  - I have made a total of **`1869`** commits.
+  - I have made a total of **`175`** PRs.
 
 <br>
 
