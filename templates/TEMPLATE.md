@@ -5,6 +5,7 @@
 <br>
 
 - 🔭 **I’m currently working on:**
+  - Fully focusing on work.
   - Multiple projects (which I usually end up never finishing).
 - 🌱 **I’m currently learning:**
   - `GoLang`
