@@ -5,14 +5,15 @@
 <br>
 
 - 🔭 **I’m currently working on:**
+  - Fully focusing on work.
   - Multiple projects (which I usually end up never finishing).
 - 🌱 **I’m currently learning:**
   - `GoLang`
 - ⚡ **Fun facts:**
   - I love cats 😸.
   - I have been on GitHub for **`8`** years, but I have only contributed for a fraction of that time.
-  - I have made a total of **`1881`** commits.
-  - I have made a total of **`181`** PRs.
+  - I have made a total of **`1883`** commits.
+  - I have made a total of **`182`** PRs.
 
 <br>
 
